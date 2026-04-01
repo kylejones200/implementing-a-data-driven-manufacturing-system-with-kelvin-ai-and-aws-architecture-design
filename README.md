@@ -1,0 +1,13 @@
+# Implementing a data driven Manufacturing System with Kelvin ai and AWS Architecture Design
+
+**Published:** 2025-04-16
+**Medium:** [https://medium.com/@kyle-t-jones/implementing-a-data-driven-manufacturing-system-with-kelvin-ai-and-aws-architecture-design-cc9dfd5ab31e](https://medium.com/@kyle-t-jones/implementing-a-data-driven-manufacturing-system-with-kelvin-ai-and-aws-architecture-design-cc9dfd5ab31e)
+
+## About
+
+Place the code for this article in this repository.
+The original article export is saved as `article.md`.
+
+## Files
+
+Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
