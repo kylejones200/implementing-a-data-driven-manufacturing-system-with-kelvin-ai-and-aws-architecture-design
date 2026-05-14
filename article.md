@@ -38,7 +38,7 @@ You've built the pipeline. Now, make the insights visible. Amazon QuickSight let
 You can create dashboards for different personas (executives, plant managers, maintenance teams, sales). With proper permissions, team members can explore insights on their own.
 
 ### Step 4: Machinery Integration with Kelvin.ai
-While AWS handles ingestion and storage, **Kelvin.ai** extends the architecture to the edge --- directly connecting with machines to provide real-time intelligence.
+While AWS handles ingestion and storage, Kelvin.ai extends the architecture to the edge --- directly connecting with machines to provide real-time intelligence.
 
 Kelvin edge agents connect to your machinery and collect live equipment data. These nodes work autonomously, capturing the moment-to-moment state of production.
 
